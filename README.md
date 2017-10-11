@@ -105,7 +105,7 @@ All [Litecoin API](https://litecoin.info/Litecoin_API) commands are supported, i
 <tr>
 <td> addmultisigaddress </td>
 <td> [nrequired] ["key","key"] [account] </td>
-<td> <b>Currently only available on testnet</b> Add a nrequired-to-sign multisignature address to the wallet. Each key is a denarius address or hex-encoded public key. If [account] is specified, assign address to [account]. </td>
+<td> Add a nrequired-to-sign multisignature address to the wallet. Each key is a denarius address or hex-encoded public key. If [account] is specified, assign address to [account]. </td>
 <td> N
 </td></tr>
 <tr>
