@@ -1,6 +1,6 @@
 # A Node.js Denarius Client!
 
-![Denarius](https://raw.githubusercontent.com/countable/node-denarius/master/node-denarius.png)
+![Denarius](https://raw.githubusercontent.com/carsenk/node-denarius/master/node-denarius.png)
 
 node-denarius is a Denarius client for Node.js. It is a fork of the excellent Kapitalize Bitcoin Client (now removed from GitHub) intended for use with Denarius. The purpose of this repository is:
 
@@ -11,7 +11,7 @@ node-denarius is a Denarius client for Node.js. It is a fork of the excellent Ka
 
 ## Dependencies
 
-You'll need a running instance of [denariusd](https://github.com/denarius/denarius) to connect with. If you're running Debian/Ubuntu, this worked for me: http://www.dogeco.in/wiki/index.php/Denariusd
+You'll need a running instance of [denariusd](https://github.com/carsenk/denarius) to connect with.
 
 Then, install the node-denarius NPM package.
 
