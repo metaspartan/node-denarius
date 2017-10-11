@@ -1,0 +1,13 @@
+{
+    "name": "node-denarius",
+    "version": "1.0.0",
+    "description": "Denarius NodeJS Client",
+    "keywords": ["denarius"],
+    "repository": "git://github.com/carsenk/node-denarius.git",
+    "author": "Carsen Klock <admin@denarius.io>",
+    "main": "lib/denarius.js",
+    "engines": { "node": ">= 0.4.0" },
+    "devDependencies": {
+        "nodeunit": "*"
+    }
+}
